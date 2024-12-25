@@ -7,7 +7,7 @@ This project focuses on analyzing customer churn data and building predictive mo
 
 The dataset used in this project is data_Customer_Churn.csv, which contains the following information about customers:
 
-Demographic details
+/item Demographic details
 
 Account information
 
